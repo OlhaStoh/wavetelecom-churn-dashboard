@@ -5,6 +5,8 @@ Telecom customer churn analysis dashboard built with Tableau
 An interactive Tableau dashboard analyzing customer churn 
 behavior for a telecom company.
 
+![Dashboard Preview](./preview.png)
+
 ## 🔗 Live Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/olha.stohnushenko/viz/Telecom_Churn_Analysis_OS/General)
 
