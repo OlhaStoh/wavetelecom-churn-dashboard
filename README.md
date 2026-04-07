@@ -209,12 +209,5 @@ Churn risk increases consistently with age, with a sharp non-linear jump at 65+:
 
 Open the [Tableau Public dashboard](https://public.tableau.com/app/profile/olha.stohnushenko/viz/Telecom_Churn_Analysis_OS/General) in your browser — no install required.
 
----
 
-## 👩‍💻 Author
-
-**Olha Stohnushenko**
-- 🌐 [Tableau Public Profile](https://public.tableau.com/app/profile/olha.stohnushenko)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-- 🐙 [GitHub](https://github.com/YOUR_GITHUB_HERE)
 
