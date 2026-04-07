@@ -16,36 +16,42 @@ The overall churn rate of **26.9% significantly exceeds the telecom industry ben
 
 ---
 
-## 📈 Key Metrics 
+## 📈 Key Metrics
 
-Customer base: ~6.7K users
-Churn rate: 26.9% (above ~20% benchmark)
-Retention: ~73%
-Churned users spend ~19% more than average
-Avg tenure: ~32 months
+* Customer base: ~6.7K users
+* **Churn rate: 26.9%** (above ~20% benchmark)
+* Retention: ~73%
+* Churned users spend **~19% more** than average
+* Avg tenure: ~32 months
 
-➡️ The company is losing a significant share of its high-value customers.
+➡️ The company is losing a significant share of its **high-value customers**.
 ---
 
-## 🗂️ Dashboard Pages & Key Findings
+## 🔍 Key Findings
 
-🌍 Geography & Drivers
-Churn varies significantly by region, with California as a critical hotspot
-Nearly half of churn is driven by competitors
-Customer service is the strongest predictor: 3+ support calls → extremely high churn risk
-👥 Customer Segments
-Churn increases with age, with a sharp spike for 65+ customers
-Seniors represent a high-value but high-risk segment
-Customers in group plans churn significantly less, indicating strong retention effects
-💳 Contracts & Payments
-Month-to-month contracts drive the majority of churn, while long-term contracts show strong retention
-Payment method impacts churn, with manual payments performing worst
-Unexpected extra charges (even small ones) significantly increase churn
-📡 Plans & Usage
-Misalignment between international plans and actual usage leads to very high churn
-Customers paying for unused services (or lacking needed ones) are at highest risk
-Unlimited plans for low-usage users often result in overpayment and churn
+### 🌍 Geography & Drivers
 
+* Churn varies significantly by region, with **California as a critical hotspot**
+* Nearly **half of churn is driven by competitors**
+* Customer service is the strongest predictor: **3+ support calls → extremely high churn risk**
+
+### 👥 Customer Segments
+
+* Churn increases with age, with a sharp spike for **65+ customers**
+* Seniors represent a **high-value but high-risk segment**
+* Customers in **group plans churn significantly less**, indicating strong retention effects
+
+### 💳 Contracts & Payments
+
+* **Month-to-month contracts drive the majority of churn**, while long-term contracts show strong retention
+* Payment method impacts churn, with **manual payments performing worst**
+* **Unexpected extra charges** (even small ones) significantly increase churn
+
+### 📡 Plans & Usage
+
+* Misalignment between **international plans and actual usage** leads to very high churn
+* Customers paying for unused services (or lacking needed ones) are at highest risk
+* **Unlimited plans for low-usage users** often result in overpayment and churn
 ---
 
 ## 🔍 Top 8 Insights
@@ -65,14 +71,14 @@ Unlimited plans for low-usage users often result in overpayment and churn
 
 ## 💡 Strategic Recommendations
 
-Implement a 3-call retention trigger by automatically flagging customers after multiple support interactions and escalating them to experienced agents.
-Launch a targeted retention campaign in high-risk regions to address local competitive and service issues.
-Introduce automated plan optimization to better match customer usage with the right тарифи.
-Encourage migration from month-to-month to long-term contracts through incentives and pricing strategies.
-Develop a dedicated retention program for senior customers with simplified support and communication.
-Expand group and family plans to leverage their strong retention effect.
-Improve billing transparency by notifying customers about charges before they occur.
-Establish a continuous competitor benchmarking process to stay aligned with market offers.
+* Implement a **3-call retention trigger** by automatically flagging customers after multiple support interactions and escalating them to experienced agents.
+* Launch a **targeted retention campaign in high-risk regions** to address local competitive and service issues.
+* Introduce **automated plan optimization** to better match customer usage with the right тарифи.
+* Encourage migration from **month-to-month to long-term contracts** through incentives and pricing strategies.
+* Develop a **dedicated retention program for senior customers** with simplified support and communication.
+* Expand **group and family plans** to leverage their strong retention effect.
+* Improve **billing transparency** by notifying customers about charges before they occur.
+* Establish a **continuous competitor benchmarking process** to stay aligned with market offers.
 ---
 
 ## 🛠️ Tools & Technologies
@@ -87,6 +93,8 @@ Establish a continuous competitor benchmarking process to stay aligned with mark
 ## 🚀 How to Use
 
 Open the [Tableau Public dashboard](https://public.tableau.com/app/profile/olha.stohnushenko/viz/Telecom_Churn_Analysis_OS/General) in your browser — no install required.
+
+
 
 
 
